@@ -11,7 +11,7 @@ from supabase import create_client, Client
 # Replace these with your actual Supabase project details
 SUPABASE_URL = "https://<YOUR-PROJECT-REF>.supabase.co"
 SUPABASE_KEY = "<YOUR-ANON-OR-SERVICE-KEY>"
-BUCKET_NAME = "my-audio-bucket"  # The name of your Supabase storage bucket
+BUCKET_NAME = "spectograms"  # The name of your Supabase storage bucket
 
 
 # ---------------------------------------------------------- #
